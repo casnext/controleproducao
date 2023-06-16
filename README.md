@@ -1,8 +1,4 @@
-##ADMIN DASHBOARD
-
-**Preview on [AdminLTE.io](https://adminlte.io/themes/v3)**
-
-## Looking for Premium Templates?
+## Template dashboard admin
 
 AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
 prices. Visit <https://adminlte.io/premium> for more information.
